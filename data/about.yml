@@ -1,0 +1,59 @@
+############################ Company Profile ########################
+company_profile:
+  enable : true
+  title : "Nuestros Servicios"
+  title_icon : "fa-suitcase" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+  profile_tab:  
+    # profile tab item loop
+    - name : "Desarrollo Web & Ecommerce"
+      icon : "fa-code" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Desarrollo Web & Ecommerce"
+      content : "Desarrollamos sitios web responsive, que son adaptables a dispositivos móviles como por ejemplo: smarphones, tablets, notebook y PC, Creamos tiendas ecommerce con pago vía Webpay o Flow. Capacitamos a nuestros clientes para la administración de su sitio web para la correcta edición y creación de contenidos. Aumente hoy sus ventas implementando un sitio web ecommerce."
+      
+    # profile tab item loop
+    - name : "Marketing Digital"
+      icon : "fa-bullhorn" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Marketing Digital"
+      content : "Creamos campañas de marketing digital, Posicionamiento (SEO-SEM), Email Marketing y configuramos su sitio web a la herramienta de tráfico y estadísticas Google Analytics. El marketing digital es uno de los desafíos, al mismo tiempo que, una de las más grandes oportunidades para las marcas y empresas hoy. Una buena campaña de posicionamiento pagado (SEM) y orgánico (SEO) pueden ser la clave del éxito."
+      
+    # profile tab item loop
+    - name : "Posicionamiento SEO"
+      icon : "fa-search" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Posicionamiento SEO"
+      content : "El posicionamiento en buscadores u optimización de motores de búsqueda es el proceso de mejorar la visibilidad de un sitio web en los resultados orgánicos de los diferentes buscadores. También es frecuente nombrarlo por su título inglés, SEO (Search Engine Optimization). La razón más importante por la que es necesario el SEO es porque hace más útil tu página web tanto para los usuarios como para los motores de búsqueda. Aunque estos aún no pueden ver una página web como lo hace un humano. El SEO es necesario para ayudar a los motores de búsqueda a entender sobre qué trata cada página y si es o no útil para los usuarios."
+
+    # profile tab item loop
+    - name : "Posicionamiento SEM"
+      icon : "fa-rocket" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Posicionamiento SEM"
+      content : "El SEM es el uso de herramientas y estrategias que nos ayudan a optimizar la visibilidad y a aumentar la accesibilidad de los sitios y páginas web gracias a los motores de los buscadores. Son además los propios buscadores quien muchas veces nos ofrecen esas herramientas para publicitarnos en sus medios de búsqueda. Gracias a anuncios patrocinados en esos buscadores (Google AdWords, Bing Ads o Yahoo! Search Marketing) se genera tráfico de calidad a la web. Esto implica actividades como la búsqueda de palabras clave, la creación de anuncios y la gestión de pujas. También se conoce como PPC (Pay Per Click) y CPC (Cost Per Click)."
+
+    # profile tab item loop
+    - name : "Redes Sociales"
+      icon : "fa-thumbs-o-up" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Redes Sociales"
+      content : "Trabajamos con las principales redes sociales desde que nacieron y no tenían la popularidad de hoy. Las hemos visto crecer y desarrollarse, entiendiendo su evolución en base al comportamiento de sus usuarios, así como sus potencialidades de las que puede sacar provecho un negocio. Esto podemos ejecutarlo a través de fanpages y aplicaciones en Facebook, servicios de Community manager mediante estrategias comunicacionales de alto impacto."
+
+    # profile tab item loop
+    - name : "Ads"
+      icon : "fa-bullhorn" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Google Ads"
+      content : "Generamos tráfico calificado a tu sitio web, potenciales clientes que están interesados en tus productos o servicios. Con Google Adwords, tu empresa estará en los primeros lugares cuando se realicen búsquedas por las palabras claves que describan tu negocio. Administramos tu campaña y te aseguramos el máximo rendimiento de tu presupuesto. Además, recibirás información transparente del rendimiento de tu cuenta."
+
+    # profile tab item loop
+    - name : "Mantenimiento Web"
+      icon : "fa-cogs" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      title : "Mantenimiento Web"
+      content : "Realizamos mantenimiento web para tu empresa creada con WordPress, Woocommerce, Shopify, Prestashop y Drupal. Nuestra agencia de diseño web, te dará asesoramiento para mejorar tu página web. Creamos un programa de mantenimiento que está pensado para asegurar tu Sitio Web y a su vez, acompañe la evolución de tu negocio, mantenga su rendimiento e incluya todos los avances tecnológicos que vayan surgiendo."
+
+
+############################### funfact ##################################
+funfact:
+  enable : false
+  # funfacts content comes from "data/homepage.yml" file
+
+
+############################### team ####################################
+team:
+  enable : false
+  # team content comes from "data/team.yml" file

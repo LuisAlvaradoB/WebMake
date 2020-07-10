@@ -1,0 +1,57 @@
+############################### Services #############################
+services:
+  title : "Nuestros Servicios"
+  subtitle : "Un equipo con más de 5 años de experiencia"
+  title_icon : "fa-cogs" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+  service_item:
+    # service item loop
+    - name : "Desarrollo Web"
+      icon : "fa-code" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Desarrollamos sitios web responsive, que son adaptables a dispositivos móviles como por ejemplo: smarphones, tablets, notebook y PC."
+      
+    # service item loop
+    - name : "Desarrollo Ecommerce"
+      icon : "fa-shopping-cart" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Desarrollamos plataformas de comercio electrónico a partir de sistemas OpenSource como Magento o Prestashop o Woocommerce."
+      
+    # service item loop
+    - name : "Marketing Digital"
+      icon : "fa-bar-chart" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Creamos campañas de marketing digital, Posicionamiento (SEO-SEM), Email Marketing y configuramos su sitio web a la herramienta de tráfico y estadísticas Google Analytics."
+      
+    # service item loop
+    - name : "Posicionamiento SEO"
+      icon : "fa-search" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Creamos tráfico orgánico y aumentamos el rendimiento de tu Sitio Web. El SEO es una forma efectiva de promocionar su negocio en línea."
+      
+    # service item loop
+    - name : "Posicionamiento SEM"
+      icon : "fa-rocket" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Programamos campañas de marketing digital competitivas y eficaces para posicionar su marca en los motores de búsqueda. Maximizamos sus resultados."
+      
+    # service item loop
+    - name : "Redes Sociales"
+      icon : "fa-thumbs-o-up" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Definimos tu estrategia de marketing digital en redes sociales. Gestionamos tu huella digital y potenciamos el rendimiento de tus campañas en Facebook, Twitter e Instagram "
+      
+    # service item loop
+    - name : "Google Ads"
+      icon : "fa-bullhorn" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Generamos tráfico calificado a tu sitio web, potenciales clientes que están interesados en tus productos o servicios."
+      
+    # service item loop
+    - name : "Mantenimiento Web"
+      icon : "fa-cogs" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Realizamos mantenimiento web para tu empresa creada con WordPress, Woocommerce, Shopify, Prestashop y Drupal. Nuestra agencia de diseño web, te dará asesoramiento para mejorar tu página web."
+
+
+############################### testimonial ####################################
+testimonial:
+  enable : true
+  # testimonail content comes from "data/homepage.yml" file
+
+
+############################### pricing ####################################
+pricing:
+  enable : true
+  # pricing content comes from "data/pricing.yml" file

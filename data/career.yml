@@ -1,0 +1,70 @@
+career:
+  ########################## career item loop ##########################
+  - title : "Desarrollo Web"
+    content : "Desarrollamos sitios web responsive, que son adaptables a dispositivos móviles como por ejemplo: smarphones, tablets, notebook y PC, Creamos tiendas ecommerce con pago vía Webpay o Flow.
+    Capacitamos a nuestros clientes para la administración de su sitio web para la correcta edición y creación de contenidos. Aumente hoy sus ventas implementando un sitio web ecommerce."
+    job_accordion:
+      # job accordion loop item
+      - name : "Sitio Web Estándar"
+        apply_url : "#"
+        content1 : "Su función es brindar información general sobre la empresa, sus productos y servicios a clientes y potenciales clientes. Explica tu propuesta de valor, presenta y describe los productos y servicios, provee contenido educativo e información de utilidad.
+        Es el tipo de sitio web que utilizan la mayoría de las empresas PyME. Si está bien concebido puede ser altamente efectivo para un amplio espectro de objetivos de marketing."
+          
+
+      # job accordion loop item
+      - name : "Sitio Web Ecommerce"
+        content1: "Su función es presentarle al usuario la gama completa de productos, con un adecuado nivel de detalle e individualización, junto con los mecanismos para poder seleccionar las variaciones adecuadas (color, talle, etc) y realizar la compra."
+
+      # job accordion loop item
+      - name : "Sitio Web Landing-Page"
+        content1: "El concepto de landing page (página de aterrizaje) se aplica a toda página web que se utiliza como destino del tráfico de una campaña de marketing digital (por ejemplo: Google Ads). En ese sentido amplio del concepto, una landing page bien podría ser una página interna de tu sitio web corporativo estándar, si es que estás llevando ahí el tráfico de cierta campaña.
+        Pero considerado como tipo de sitio web, llamamos landing page a un Sitio Web especialmente diseñado para una campaña. Se trata de una herramienta altamente especializada, que se optimiza para lograr un elevado rendimiento, maximizando el output (por ejemplo, cantidad de ventas, leads, suscripciones, etc) para un determinado input (tráfico)."
+          
+      
+  ########################## career item loop ##########################
+  - title : "Marketing Digital"
+    content : "Creamos campañas de marketing digital, Posicionamiento (SEO-SEM), Email Marketing y configuramos su sitio web a la herramienta de tráfico y estadísticas Google Analytics.
+    El marketing digital es uno de los desafíos, al mismo tiempo que, una de las más grandes oportunidades para las marcas y empresas hoy. Una buena campaña de posicionamiento pagado (SEM) y orgánico (SEO) pueden ser la clave del éxito."
+    job_accordion:
+      # job accordion loop item
+      - name : "Google Ads"
+        apply_url : "#"
+        content1 : "Generamos tráfico calificado a tu sitio web, potenciales clientes que están interesados en tus productos o servicios. Con Google Adwords, tu empresa estará en los primeros lugares cuando se realicen búsquedas por las palabras claves que describan tu negocio. Administramos tu campaña y te aseguramos el máximo rendimiento de tu presupuesto. Además, recibirás información transparente del rendimiento de tu cuenta."
+
+      # job accordion loop item
+      - name : "Posicionamiento SEO"
+        content1 : "Creamos tráfico orgánico y aumentamos el rendimiento de tu Sitio Web. El SEO es una forma efectiva de promocionar su negocio en línea. Ayuda a las empresas a promocionar sus productos y servicios a los clientes locales en el momento exacto en que los buscando."
+
+      # job accordion loop item
+      - name : "Redes Sociales"
+        content1 : "Trabajamos con las principales redes sociales desde que nacieron y no tenían la popularidad de hoy. Las hemos visto crecer y desarrollarse, entiendiendo su evolución en base al comportamiento de sus usuarios, así como sus potencialidades de las que puede sacar provecho un negocio. Esto podemos ejecutarlo a través de fanpages y aplicaciones en Facebook, servicios de Community manager mediante estrategias comunicacionales de alto impacto."
+
+      # job accordion loop item
+      - name : "Email Marketing"
+        content1 : "Una campaña no puede estar completa sin una gestión correcta de envío de correos a tus clientes o prospectos. Para eso contamos con herramientas de alto nivel para este tipo de proyectos, que permitirán realizar un envío confiable a tus clientes sin quedar atascadas en el molesto spam."
+
+########################## career item loop ##########################
+  - title : "Mantenimiento Web"
+    content : "Realizamos mantenimiento web para tu empresa creada con WordPress, Woocommerce, Shopify, Prestashop y Drupal. Nuestra agencia de diseño web, te dará asesoramiento para mejorar tu página web.
+    Creamos un programa de mantenimiento que está pensado para asegurar tu Sitio Web y a su vez, acompañe la evolución de tu negocio, mantenga su rendimiento e incluya todos los avances tecnológicos que vayan surgiendo."
+    job_accordion:
+      # job accordion loop item
+      - name : "Plan Básico"
+        apply_url : "#"
+        content1 : "Con este pack garantizamos la máxima disponibilidad, rendimiento elevado y estable de tu Sitio Web a lo largo del tiempo. Consta de las siguientes actividades:
+        Optimización de Hosting Web.
+        Backups cada semana.
+        Actualización de software y componentes.
+        Monitoreo de uptime, rendimiento (tiempo de carga) y de funcionalidades con aplicación de medidas correctivas ante incidentes.
+        Actualización de contenidos básicos según requerimiento del cliente.
+        Administración de Google Analytics, creación de métricas, segmentos, variables personalizadas y reportes para los objetivos de marketing que se establezcan."
+
+      # job accordion loop item
+      - name : "Plan Standar"
+        content1 : "Incorpora todas las actividades del plan #1 Básico, y añade las siguientes:
+        Creación de nuevas secciones, bloques de contenido y reorganización de los mismos según requerimiento del cliente.
+        Mejora continua de todas las funcionalidades y componentes, asegurando que el Sitio Web incorpore los últimos adelantos en diseño web."
+
+      # job accordion loop item
+      - name : "Plan Full"
+        content1 : "Incorpora todos los ítems de los planes Básico y Estándar, pero no se limita al desarrollo de nuevas secciones, páginas y contenidos, sino que implementa un plan de mejora continua de los mismos en base a medición de resultados y ajuste continuo. Mediante un proceso de iteración continua basado en ciclos cortos de diseño, testing y aprendizaje, vamos perfeccionando cada pieza de contenido guiados por datos reales sobre el comportamiento online del cliente."
