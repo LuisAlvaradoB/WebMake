@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://festive-lovelace-6f9dd9.netlify.app/"
+baseURL = "https://webmake.dev/"
 title = "▷Desarrollo Web y Marketing Digital en La Serena | WebMake"
 theme = "bizcraft-hugo"
 # language
