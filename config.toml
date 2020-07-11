@@ -104,7 +104,7 @@ weight = 5
 [params]
 logo = "images/logo-color.svg"
 home = "Home"
-URL = ""
+URL = "/"
 # Meta data
 description = "Somos una agencia joven dedicada a ofrecer servicios especializados en Desarrollo Web, Marketing Digital y Mantenimiento Web con la mejor calidad-precio."
 author = "WebMake"

@@ -15,8 +15,8 @@
           <div class="post-header clearfix">
             <h2 class="post-title">{{ .Title }}</h2>
             <div class="post-meta">
-              <span class="post-meta-author">Posted by&nbsp;<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></span>
-              <span class="post-meta-cats">in&nbsp;{{ range $index, $elements:= .Params.Categories }}<a
+              <span class="post-meta-author">Por&nbsp;<a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></span>
+              <span class="post-meta-cats">en&nbsp;{{ range $index, $elements:= .Params.Categories }}<a
                 href="{{ `categories/` | relLangURL }}{{ . | urlize | lower }}"> {{ if ne $index 0 }}, {{ end }}
                 {{ . | title }}</a> {{ end}}</span>
             </div>
