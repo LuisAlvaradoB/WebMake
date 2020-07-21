@@ -4,7 +4,7 @@ slider:
   slider_item:
     ################# Slider item loop
     - title : "Desarrollo Web & Ecommerce"
-      subtitle : ""
+      subtitle : "Desarrollamos sitios web informativos, ecommerce y landing pages enfocados en conversiones."
       bg_image : "images/slider/bg1.jpg"
       image : ""
       image_position : "false"
@@ -22,7 +22,7 @@ slider:
 
     ############### Slider item loop
     - title : "Marketing Digital"
-      subtitle : ""
+      subtitle : "Implementamos campañas para que tus nichos te descubran y deseen en Facebook e Instagram."
       bg_image : "images/slider/bg2.jpg"
       image : ""
       image_position : "left"
@@ -40,7 +40,7 @@ slider:
 
     ############### Slider item loop
     - title : "Mantenimiento Web"
-      subtitle : ""
+      subtitle : "Realizamos mantenimiento web para tu empresa creada con WordPress, Woocommerce, Shopify, Prestashop y Drupal."
       bg_image : "images/slider/bg3.jpg"
       image : ""
       image_position : "right"
@@ -125,49 +125,35 @@ feature:
   enable : True
   feature_item:
     # feature item loop
-    - name : "Clean &amp; Modern Design"
+    - name : "Diseño limpio y moderno"
       icon : "fa-heart-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
+      content : "Creamos un Sitio Web atractivo y que te ayude a conseguir clientes"
     # feature item loop
-    - name : "Useful Shortcodes"
-      icon : "fa-codepen" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
-    # feature item loop
-    - name : "Parallax Section"
-      icon : "fa-film" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
-    # feature item loop
-    - name : "Multipurpose Concept"
-      icon : "fa-newspaper-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
-    # feature item loop
-    - name : "Responsive Layout"
-      icon : "fa-desktop" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
-    # feature item loop
-    - name : "Light wight Performance"
+    - name : "Rendimiento Ligero"
       icon : "fa-pagelines" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
+      content : "Garantizamos la máxima disponibilidad, rendimiento elevado y estable de tu Sitio Web a lo largo del tiempo"
+
+     # feature item loop
+    - name : "Diseño Responsivo"
+      icon : "fa-desktop" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Desarrollamos Sitios Web responsive, que son adaptables a dispositivos móviles "  
+
     # feature item loop
-    - name : "Free Lifetime Updates"
+    - name : "Concepto multipróposito"
+      icon : "fa-newspaper-o" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
+      content : "Desarrollamos tu Sitio Web según la idea de negocio de tu empresa"
+
+    # feature item loop
+    - name : "Actualizaciones"
       icon : "fa-recycle" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
+      content : "Mantenemos tu Sitio Web al día con las últimas actualizaciones"
+
     # feature item loop
-    - name : "Endless Possibilites"
-      icon : "fa-diamond" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
-      
-    # feature item loop
-    - name : "24/7 Live Support"
+    - name : "Soporte técnico"
       icon : "fa-whatsapp" # fontawesome icon pack 4.7 | https://fontawesome.com/v4.7.0/icons/
-      content : "Bras urna felis accumsan at ultrde cesid posuere masa socis nautoque penat"
+      content : "Estamos siempre disponibles a cualquier solicitud que se genere."
+    
+   
 
 
 ############################ Call to action #############################
