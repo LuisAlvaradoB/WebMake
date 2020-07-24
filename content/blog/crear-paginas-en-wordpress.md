@@ -11,7 +11,7 @@ author: "WebMake"
 categories: ["Tutorial"]
 tags: ["wordpress"]
 # meta description
-description: "This is meta description."
+description: "Uno de los puntos fuertes de cualquier gestor de contenidos es precisamente eso, la gestión de contenido y su facilidad para insertar, modificar o eliminar contenidos de nuestro sitio web..."
 # save as draft
 draft: false
 ---

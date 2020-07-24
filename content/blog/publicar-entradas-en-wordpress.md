@@ -11,7 +11,7 @@ author: "WebMake"
 categories: ["Tutorial"]
 tags: ["wordpress"]
 # meta description
-description: "This is meta description."
+description: "Como buen gestor de contenidos, WordPress permite administrar diferentes tipos de entradas o datos, en esta parte del tutorial te explicaré cada uno de ellos y te indicaré cómo poder insertarlos o modificarlos..."
 # save as draft
 draft: false
 ---
