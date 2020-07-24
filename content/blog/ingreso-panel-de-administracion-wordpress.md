@@ -11,7 +11,7 @@ author: "WebMake"
 categories: ["Tutorial"]
 tags: ["wordpress"]
 # meta description
-description: "This is meta description."
+description: "Una de las características más potentes de WordPress es la facilidad de uso (usabilidad) que tiene su panel de administración..."
 # save as draft
 draft: false
 ---
