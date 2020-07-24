@@ -5,6 +5,8 @@ date: 2020-05-14T12:14:34+06:00
 page_header_bg: "images/banner/banner1.jpg"
 # post thumb
 image: "images/blog/portada-wordpress.jpg"
+# image thumb
+image_thumb: "images/blog/portada-wordpress.jpg"
 # post author
 author: "WebMake"
 # taxonomies
