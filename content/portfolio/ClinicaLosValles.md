@@ -1,6 +1,6 @@
 ---
 title: "Clínica Los Valles"
-date: 2020-08-22T23:59:06-09:00
+date: 2020-08-22T06:59:06-09:00
 # page header background image
 page_header_bg: "images/banner/banner1.jpg"
 images: 
